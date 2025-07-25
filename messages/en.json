@@ -1,0 +1,1021 @@
+{
+  "Hero": {
+    "title": "STEP INTO THE WORLD OF"
+  },
+  "Navbar": {
+    "residences": "Residences",
+    "mediaStories": "Media & Stories",
+    "career": "Career",
+    "aboutUs": "About Us",
+    "contact": "Contact",
+    "contactUs": "CONTACT US",
+    "800GREEN": "800 GREEN"
+  },
+  "Luxury": {
+    "title": "Transforming Urban Living",
+    "title2": "Crafting Vision,",
+    "title3": "Enhencing",
+    "title4": "Functionality!",
+    "para1": "At Green Horizon, we don’t just build homes — we shape the future. Our iconic residences blend timeless luxury with architectural excellence, offering both an exclusive lifestyle and a high-value investment.",
+    "para2": "Redefining luxury real estate in Dubai, we create spaces that inspire, appreciate in value, and leave a lasting legacy. With every project, we uphold our promise—unmatched quality, innovation, and elegance that endures",
+
+    "knowMore": " Know More",
+    "state": {
+      "1": {
+        "title1": "YEARS OF EXCELLENCE",
+        "title2": "IN REAL ESTATE",
+        "value": "14+"
+      },
+      "2": {
+        "title1": "PROJECTS DELIVERED",
+        "title2": "AHEAD OF SCHEDULE",
+        "value": "07"
+      },
+      "3": {
+        "title1": "LUXURIOUS",
+        "title2": "HOMES CRAFTED",
+        "value": "1,000+"
+      }
+    }
+  },
+  "Slider": {
+    "title": "UPCOMING LAUNCH",
+    "CotierHouse": "Cotier House",
+    "discription": "1B-2B-3B Luxury Apartments in dubai island",
+    "discription2": "TOWNHOUSE IN DUBAI ISLAND"
+  },
+  "LegacyOfLuxury": {
+    "label": "A Legacy of Luxury",
+    "title1": "Where Elegance Meets",
+    "title2": "Architectural Brilliance",
+    "para1": "At Green Horizon, we don’t just build residences—we create timeless landmarks of luxury. Each development is a symphony of architectural brilliance, bespoke craftsmanship, and unparalleled elegance. Designed for the elite, our spaces offer an exquisite blend of sophistication, comfort, and investment value.",
+    "para2": "With an unwavering commitment to perfection, we shape skylines and redefine urban living—where every detail reflects prestige, and every home is a statement of legacy.",
+    "btn": "ABOUT US"
+  },
+
+  "Developments": {
+    "label": "OUR DEVELOPMENT",
+    "title1": "DEVELOPMENT,",
+    "title2": "DESIGNED FOR MODERN LIVING",
+    "categories": {
+      "All": "All",
+      "UAE": "UAE",
+      "London": "London"
+    },
+    "1": {
+      "name": "SUNSET BAY*",
+      "location": "Dubai Island, UAE",
+      "size": "Studios, 1 & 2 Bedroom Apartments",
+      "duration": "Project Renovation: Q4 2026",
+      "categoryName": "UAE"
+    },
+    "2": {
+      "name": "BEACH WALK GRAND*",
+      "location": "Dubai Island, UAE",
+      "size": "Studios, 1 & 2 Bedroom Apartments",
+      "duration": "Project Renovation: Q4 2026",
+      "categoryName": "UAE"
+    },
+    "3": {
+      "name": "COVE*",
+      "location": "Dubai Land Residence Complex, UAE",
+      "size": "Studios, 1 & 2 Bedroom Apartments",
+      "duration": "Project Renovation: Q1 2027",
+      "categoryName": "UAE"
+    },
+    "4": {
+      "name": "HYDE WALK*",
+      "location": "Jumeirah Garden City, UAE",
+      "size": "Studios, 1 & 2 Bedroom Apartments",
+      "duration": "Project Renovation: Q3 2025",
+      "categoryName": "UAE"
+    },
+
+    "5": {
+      "name": "53 LANCASTER GATE",
+      "location": "London, UK",
+      "size": "1 Bedroom Apartment",
+      "duration": "Project Renovated: 2021",
+      "categoryName": "London"
+    },
+    "6": {
+      "name": "HYDE PARK MANSION",
+      "location": "London, UK",
+      "size": "4 & 5 Bedroom Apartments",
+      "duration": "Project Renovated: 2023",
+      "categoryName": "London"
+    },
+    "7": {
+      "name": "GLOUCESTER TERRACE",
+      "location": "London, UK",
+      "size": " Apartments",
+      "duration": "Project Renovated: 2022",
+      "categoryName": "London"
+    },
+    "8": {
+      "name": "PRINCE COURT",
+      "location": "London, UK",
+      "size": "Apartments",
+      "duration": "Project Renovated: 2022",
+      "categoryName": "London"
+    }
+  },
+  "ExploreSection": {
+    "title1": "Imagine of a world where every",
+    "title2": "detail blends seamlessly",
+
+    "Try3DTour": {
+      "title": "Try our 3D tour",
+      "desc": "Take our virtual tour in apartments"
+    },
+    "BookViewing": {
+      "title": "Book a viewing",
+      "desc": "Schedule a visit to our show apartment"
+    },
+    "SalesVideoCall": {
+      "title": "Sales video call",
+      "desc": "Talk to one of our sales experts"
+    },
+    "RegisterInterest": {
+      "title": "Register Your Interest",
+      "desc": "Register your interest in our properties"
+    }
+  },
+  "Communities": {
+    "title": "Redefining Communities with Luxury & Legacy",
+    "description": "Our visionary designs create not just spaces but extraordinary experiences-blending elite living and business into iconic masterpieces that go beyond expectations.",
+
+    "JVC": "JVC",
+    "JumeirahGardenCity": "Jumeirah Garden City",
+    "DubaiLand": "Dubai Land",
+    "DubaiIsland": "Dubai Island"
+  },
+  "Quote": {
+    "title1": "At Green Horizon, we create more than homes – we craft the foundation of trust that lasts a life time.",
+    "title2": "At green horizon, we build more than homes- we build trust.",
+    "para": "Every project at Green Horizon is a promise fulfilled, blending luxury, practicality, and an unwavering commitment to exceed expectations.",
+    "para2": "Every project is a reflection of our vision to reshape real estate with quality, innovation, and speed - always putting the needs of our investors and residents first.",
+    "name": "MR. SAYED JALAL AGHA ",
+    "job": "Chairman, Green Horizon"
+  },
+  "ExploreOptions": {
+    "title": "Latest News & Events",
+    "desc1": "Stay Updated with Latest",
+    "desc2": " Happenings & Announcements",
+    "readMore": "Read More",
+    "1": {
+      "title": "Imtiaz marks early handover of Westwood Grande in JVC, accelerates delivery of 4 projects by Q2 2025",
+      "locationTime": "JVC, 25th January 2025"
+    },
+    "2": {
+      "title": "Guide to Buy Dubai Property in the Best Neighbourhoods for Comfortable Long-Term Living",
+      "locationTime": "Dubai, 20th December 2025"
+    },
+    "3": {
+      "title": "Imtiaz Developments launches Cove Edition 2 Residence in Dubailand",
+      "locationTime": "Dubai Land, 20th January 2025"
+    }
+  },
+  "WorkWithUs": {
+    "title": "Careers at Green Horizon",
+    "btnText": "work with us"
+  },
+  "Footer": {
+    "explore": "EXPLORE",
+    "residences": "Residences",
+    "mediaStories": "Media & Stories",
+    "career": "Career",
+    "agentHub": "Agent Hub",
+    "contactUs": "Contact Us",
+    "enquireNow": "ENQUIRE NOW",
+    "ongoingProjects": "ONGOING PROJECTS",
+    "everestBay": "Everest Bay",
+    "oceanResort": "Ocean Resort",
+    "theGreenEstate": "The Green Estate",
+    "lancasterGate": "55 Lancaster Gate",
+    "highPark": "High Park Paradise",
+    "HideWalk": "Hide Walk",
+    "sunsetBay": "Sunset Bay",
+    "beachWalkGrand": "Beach Walk Grand",
+    "coveEditionIII": "Cove",
+    "hydeparkMansion": "Hyde Park Mansion",
+    "gloucesterTerrace": "Gloucester Terrace",
+    "53LangasterGate": "53 Langaster Gate",
+
+    "completedProjects": "COMPLETED PROJECTS",
+    "coveLiving": "Cove Living",
+    "coastElegence": "Coast Elegance",
+    "pearlHotel": "Pearl Hotel & Residence",
+    "westwoodGrande": "Westwood Grande & Residence",
+    "contact": "HEAD ",
+    "info": "QUARTERS",
+
+    "add1": "Green Horizon Real Estate Development LLC.",
+
+    "add2": "Floor 5 office 501,",
+    "add3": "Millennium Executive Tower, Sheikh Zayed Road, Dubai, UAE",
+    "followUs": "FOLLOW US",
+    "rights": " © 2025 | Green Horizon Real Estate Development LLC. | ",
+    "rights2": "All rights reserved.",
+    "greenHorizon": " Green Horizon is sister concern of Korzet Developments",
+    "licenceNum": "License Number: 1443408",
+    "payNow": "PAY NOW",
+    "channelPartner": "CHANNEL PARTNER",
+    "cookiePolicy": "Cookie Policy",
+    "privacyPolicy": "Privacy Policy",
+    "termsConditions": "Terms & Conditions",
+    "disclaimer": "Disclaimer"
+  },
+  "Form": {
+    "title1": "reach us to learn more",
+    "title2": "REGISTER YOUR INTEREST",
+    "submit": "SUBMIT",
+    "submitting": "Submitting...",
+    "firstname": "First Name *",
+    "lastname": "Last Name *",
+    "resume": "Resume/CV *",
+
+    "email": "Email *",
+    "agreeText": "By submitting the form, you agree to the",
+    "termsConditions": " Terms and Conditions",
+    "and": "and",
+    "privacyPolicy": "Privacy Policy"
+  },
+  "Thankyou": {
+    "thankyou": "Thank you!",
+    "para1": "We have sent you the brochure. Our representative",
+    "para2": "will connect with you shortly.",
+    "btn": "Go to homepage"
+  },
+
+  "About": {
+    "Hero": {
+      "title1": "Pioneering Legacy of",
+      "title2": "Luxury in Dubai"
+    },
+    "Luxury": {
+      "label": "Green horizon development",
+      "title1": "Our Story : Building More Than Homes -",
+      "title2": "Crafting a Legacy",
+      "para1": "At Green Horizon, we don’t just build properties—we craft enduring legacies. Our philosophy revolves around creating timeless architectural masterpieces that offer both luxurious living and exceptional investment value. Rooted in excellence, every Green Horizon development is designed to transcend generations, embodying sophistication, sustainability, and innovation.",
+      "para2": "Founded with a passion for redefining luxury real estate, Green Horizon has grown into a name synonymous with innovation, quality, and long-term value. Our journey is driven by a commitment to delivering premium residential developments that stand the test of time. From iconic designs to unmatched craftsmanship, we ensure that every home is a sanctuary of elegance and exclusivity.",
+      "para3": "With a keen focus on blending aesthetics with functionality, our projects are strategically located in Dubai’s most sought-after destinations, offering residents a lifestyle of convenience and prestige while securing investors high-value appreciation. ",
+      "title4": "Where Luxury Meets Functionality!",
+      "ourMission": "Our Mission",
+      "ourMissionDisc1": "Our mission is to set new benchmarks in real estate by delivering timeless residences that exceed expectations. Every project we undertake is guided by a relentless pursuit of excellence, sustainability, and long-term value. ",
+      "ourMissionDisc2": "We are dedicated to crafting homes that are not only luxurious and comfortable but also provide a lasting legacy for generations to come.",
+      "ourVision": "Our Vision",
+      "ourVisionDisc1": "At Green Horizon, we envision a future where luxury and legacy go hand in hand. Our goal is to create architectural landmarks that are not only aesthetically captivating but also investment-worthy assets that appreciate over time.",
+      "ourVisionDisc2": "We strive to blend sophisticated design, innovative technology, and eco-conscious practices to develop spaces that redefine modern living. "
+    },
+    "ExploreSection": {
+      "title1": "Exploring the Perfect Blend",
+      "title2": "of Luxury and Innovation",
+
+      "item1": {
+        "title": "Market",
+        "title2": "Insight",
+        "desc": "We design projects that fill market gaps, focusing on Dubai's affordable luxury segment."
+      },
+      "item2": {
+        "title": "Uncompromising",
+        "title2": "Quality",
+        "desc": "We prioritize quality, ensuring every detail meets the highest standards."
+      },
+      "item3": {
+        "title": "Community",
+        "title2": "Focus",
+        "desc": "We build more than properties - we create vibrant, family-friendly communities."
+      },
+      "item4": {
+        "title": "Timely",
+        "title2": "Delivery",
+        "desc": "We deliver projects on time, ensuring you can move into your home without delay."
+      }
+    },
+    "Features": {
+      "label": "Our Values",
+      "title1": "A Commitment to Legacy and Excellence",
+      "item1": {
+        "title1": "Prime Location",
+        "desc": "Our projects are strategically located in Jumeirah Village Circle, near key sites like the World Expo and Al Maktoum International Airport. We prioritize locations that add convenience and prestige to your living experience."
+      },
+      "item2": {
+        "title1": "Timeless Architectural Excellence",
+        "desc": "We craft properties that stand the test of time, combining world-class architecture with thoughtful, enduring designs. Every detail is curated to create residences that offer not only aesthetic brilliance but also long-lasting functionality. "
+      },
+      "item3": {
+        "title1": "Sustainable Growth",
+        "desc": "Our commitment to sustainability ensures that every project is designed with environmental consciousness and future growth in mind. We integrate smart technology, eco-friendly solutions, and energy-efficient designs to build a better tomorrow."
+      },
+      "item4": {
+        "title1": "Sensory Excellence",
+        "desc": "Luxury is not just seen—it is experienced. From the ambiance of our living spaces to the tactile elegance of our materials, we ensure that every home engages the senses in a way that reflects sophistication, comfort, and a sense of belonging."
+      },
+      "item5": {
+        "title1": "Legacy-Driven Living",
+        "desc": "A home is more than a space—it is a statement. We design residences that transcend generations, ensuring they remain symbols of luxury, stability, and prosperity. Every Green Horizon project is an investment in a future that values quality, excellence, and timeless appeal."
+      },
+      "item6": {
+        "title1": "Thriving Community",
+        "desc": "Our developments foster dynamic communities where like-minded individuals come together to share experiences, build relationships, and create memories. We don’t just offer homes—we cultivate lifestyles that enrich and inspire."
+      },
+      "item7": {
+        "title1": "Infinite Aspirations",
+        "desc": "Our name reflects our belief—there are no limits to what we can achieve. With every project, we push the boundaries of innovation and luxury, delivering residences that inspire ambition and elevate living standards."
+      }
+    }
+  },
+  "Contact": {
+    "title": "Contact Us",
+    "label": "Get in Touch",
+    "locationTitle1": " WE'RE HERE TO ANSWER YOUR QUESTIONS AND ",
+    "locationTitle2": "ASSIST WITH YOUR NEEDS",
+
+    "officeAddress": "Office Address",
+
+    "officeAddressData1": "Green Horizon Real Estate Development LLC.",
+
+    "officeAddressData2": "Floor 5 office 501, Millennium Plaza Hotel,",
+    "officeAddressData3": "Sheikh Zayed Road, Dubai, UAE",
+
+    "callUs": "Call Us",
+    "callUsData": "800 Imtiaz (468 429) - Sales Enquiry",
+    "emailUs": "Email Us",
+    "emailData": "Sales Enquiry",
+    "workingHours": "Working Hours",
+    "workingHoursData1": "  Our team is available from Monday to Friday,",
+    "workingHoursData2": "from 9:00 am to 5:00 pm GST - Gulf standard time."
+  },
+  "ProjectSunsetBay": {
+    "title": "Sunset Bay 2",
+    "ProjectDetails": {
+      "detail1": {
+        "title": "Prices Starting from",
+        "desc": "AED 1,800,000"
+      },
+      "detail2": {
+        "title": "20%",
+        "desc": "down payment"
+      },
+      "detail3": {
+        "title": "Project Completion",
+        "desc": "Year Q1 2027"
+      },
+      "detail4": {
+        "title1": "  20% down payment",
+        "title2": "40% during construction",
+        "title3": "40% On handover",
+        "title4": "60/40 Payment Plan"
+      }
+    },
+    "ProjectOverview": {
+      "label": "Project Overview",
+      "title": "An Icon of Coastal Elegance",
+      "para": " Sunset Bay 2 by Imtiaz, nestled within the captivating Dubai Islands. This exclusive destination places you just moments from the beach, where vast ocean views and the beauty of each sunrise and sunset define your days. Each element, from its striking façade to the rooftop retreat, is designed to bring the serenity of the coast into everyday life, creating an elevated experience by the water."
+    },
+    "VirtualTour": {
+      "label": "Visual Tour",
+      "title1": "Exploring the Perfect Blend of",
+      "title2": "Luxury and Innovation"
+    },
+    "Amenities": {
+      "label": "WORLD-CLASS AMENITIES",
+      "title1": "EXPERIENCE LUXURY WITH A",
+      "title2": "VARIETY OF PREMIUM amenities",
+      "Amenity1": "outdoor dining/BBQ Area",
+      "Amenity2": "Gymnasium",
+      "Amenity3": "Kids' Play Area",
+      "Amenity4": "outdoor Cinema",
+      "Amenity5": "floating island",
+      "Amenity6": "water/sunken Lounge",
+      "Amenity7": "meeting area",
+      "Amenity8": "private terrace"
+    },
+    "Location": {
+      "label": "PROJECT LOCATION",
+      "title": "WELL-CONNECTED TO BUSINESS, LEISURE, AND TRANSIT",
+
+      "Distances": {
+        "one": "Infinity Bridge – 5 minutes",
+        "two": "Waterfront Market – 5 minutes",
+        "three": "Al Mamzar Beach – 8 minutes",
+        "four": "Nearest Metro Station – 12 minutes",
+        "five": "Dubai International Airport – 12 minutes",
+        "six": "Cruise Terminal – 15 minutes",
+        "seven": "Dubai Frame – 20 minutes",
+        "eight": "Downtown Dubai – 24 minutes",
+        "nine": "Dubai Mall – 24 minutes"
+      }
+    }
+  },
+
+  "Projects": {
+    "sunsetBay2": {
+      "title": "Sunset Bay 2",
+
+      "projectDetails": {
+        "label": "Project Details",
+        "pricesStartingFrom": "Prices Starting from",
+        "price": "AED 1,800,000",
+        "downPayment": "20%",
+        "downPaymentLabel": "down payment",
+        "projectCompletion": "Project Completion",
+        "completionDate": "Year Q1 2027",
+        "paymentPlan": {
+          "plan1": "20% down payment",
+          "plan2": "40% during construction",
+          "plan3": "40% On handover",
+          "plan4": "60/40 Payment Plan"
+        }
+      },
+
+      "projectOverview": {
+        "label": "Project Overview",
+        "visualTour": "Visual Tour",
+        "title": "An Icon of Coastal Elegance",
+        "description": "Sunset Bay 2 by Imtiaz, nestled within the captivating Dubai Islands. This exclusive destination places you just moments from the beach, where vast ocean views and the beauty of each sunrise and sunset define your days. Each element from its striking façade to the rooftop retreat—is designed to bring the serenity of the coast into everyday life, creating an elevated experience by the water."
+      },
+      "virtualTour": {
+        "label": "Visual Tour",
+        "title1": "Exploring the Perfect Blend of",
+        "title2": "Luxury and Innovation"
+      },
+      "amenities": {
+        "label": "WORLD-CLASS AMENITIES",
+        "title1": "EXPERIENCE LUXURY WITH A",
+        "title2": "VARIETY OF PREMIUM amenities",
+
+        "amenity1": "outdoor dining/BBQ Area",
+        "amenity2": "Gymnasium",
+        "amenity3": "Kids' Play Area",
+        "amenity4": "Outdoor Cinema",
+        "amenity5": "Floating Island",
+        "amenity6": "Water/Sunken Lounge",
+        "amenity7": "Meeting Area",
+        "amenity8": "Private Terrace"
+      },
+      "location": {
+        "label": "PROJECT LOCATION",
+        "title": "WELL-CONNECTED TO BUSINESS, LEISURE, AND TRANSIT",
+        "distances": {
+          "one": "Infinity Bridge – 5 minutes",
+          "two": "Waterfront Market – 5 minutes",
+          "three": "Al Mamzar Beach – 8 minutes",
+          "four": "Nearest Metro Station – 12 minutes",
+          "five": "Dubai International Airport – 12 minutes",
+          "six": "Cruise Terminal – 15 minutes",
+          "seven": "Dubai Frame – 20 minutes",
+          "eight": "Downtown Dubai – 24 minutes",
+          "nine": "Dubai Mall – 24 minutes"
+        }
+      }
+    },
+    "cotierHouse": {
+      "title": "Cotier House",
+      "projectDetails": {
+        "label": "Project Details",
+        "detail1": {
+          "title": "Prices Starting from",
+          "desc": "AED 2.4 M"
+        },
+        "detail2": {
+          "title": "20%",
+          "desc": "down payment"
+        },
+        "detail3": {
+          "title": "Project Completion",
+          "desc": "Year Q1 2027"
+        },
+        "detail4": {
+          "title1": "20% down payment",
+          "title2": "40% during construction",
+          "title3": "40% On handover",
+          "title4": "60/40 Payment Plan"
+        }
+      },
+      "projectOverview": {
+        "label": "Project Overview",
+        "label2": "Visual Tour",
+        "title": "A Marina-Front Masterpiece",
+        "para": "Set against the breathtaking backdrop of the ocean, Côtier House stands as the latest masterpiece on Dubai Islands. Nestled along a serene marina-front location, it offers a harmonious blend of tranquility, vibrancy, and seamless connectivity, shaping an elegant lifestyle where every detail is thoughtfully designed."
+      },
+      "virtualTour": {
+        "label": "Visual Tour",
+        "title1": "Exploring the Perfect Blend of",
+        "title2": "Luxury and Innovation"
+      },
+      "amenities": {
+        "label": "WORLD-CLASS AMENITIES",
+        "title1": "EXPERIENCE LUXURY WITH A",
+        "title2": "VARIETY OF PREMIUM amenities",
+
+        "amenity1": "BBQ Area",
+        "amenity2": "Gymnasium",
+        "amenity3": "Kids' Play Area",
+        "amenity4": "club room",
+        "amenity5": "Swimming Pool",
+        "amenity6": "Sauna & Steam",
+        "amenity7": "Meeting Area",
+        "amenity8": "Rooftop Garden"
+      },
+      "location": {
+        "label": "PROJECT LOCATION",
+        "title": "WELL-CONNECTED TO BUSINESS, LEISURE, AND TRANSIT",
+        "distances": {
+          "one": "Burj Khalifa – 12 minutes",
+          "two": "DXB Airport – 20 minutes",
+          "three": "Dubai International Airport – 17 minutes",
+          "four": "Downtown Dubai – 35 minutes",
+          "five": "Jumeirah Beach – 20 minutes",
+          "six": "Dubai Marina - 45 minutes",
+          "seven": "DWC Airport - 60 minutes"
+        }
+      }
+    },
+    "coveEdition4": {
+      "title": "Cove Edition 4",
+      "projectDetails": {
+        "label": "Project Details",
+        "detail1": {
+          "title": "Prices Starting from",
+          "desc": "AED 628,778"
+        },
+        "detail2": {
+          "title": "20%",
+          "desc": "down payment"
+        },
+        "detail3": {
+          "title": "Project Completion",
+          "desc": "Year Q1 2026"
+        },
+        "detail4": {
+          "title1": "20% down payment",
+          "title2": "50% during construction",
+          "title3": "30% On handover",
+          "title4": "70/30 Payment Plan"
+        }
+      },
+      "projectOverview": {
+        "label": "Project Overview",
+        "label2": "Visual Tour",
+        "title": "Redefining Urban Elegance",
+        "para": "Cove Edition 4 by Imtiaz, a visionary residential masterpiece set in the dynamic heart of Dubailand. Thoughtfully designed with a perfect balance of style and functionality, each home embodies effortless living, refined aesthetics, and modern sophistication. Cove Edition 4 redefines urban living, offering a seamless blend of tranquility and city connectivity, setting a new standard for contemporary lifestyles."
+      },
+      "virtualTour": {
+        "label": "Visual Tour",
+        "title1": "Exploring the Perfect Blend of",
+        "title2": "Luxury and Innovation"
+      },
+      "amenities": {
+        "label": "WORLD-CLASS AMENITIES",
+        "title1": "EXPERIENCE LUXURY WITH A",
+        "title2": "VARIETY OF PREMIUM AMENITIES",
+
+        "amenity1": "BBQ Area",
+        "amenity2": "Club Room",
+        "amenity3": "Kids' Play Area",
+        "amenity4": "Furnished",
+        "amenity5": "Swimming Pool (Adults only)",
+        "amenity6": "Sauna & Steam",
+        "amenity7": "Meeting Area",
+        "amenity8": "Kids Pool"
+      },
+      "location": {
+        "label": "PROJECT LOCATION",
+        "title": "WELL-CONNECTED TO BUSINESS, LEISURE, AND TRANSIT",
+        "distances": {
+          "one": "Academic City – 5 minutes",
+          "two": "Global Village – 10 minutes",
+          "three": "IMG World of Adventure - 10 minutes",
+          "four": "Dubai Silicon Oasis – 5 minutes",
+          "five": "Burj Khalifa - 20 minutes",
+          "six": "Dubai Marina - 45 minutes",
+          "seven": "Dubai Mall – 20 minutes",
+          "eight": "Dubai Creek – 20 minutes",
+          "nine": "Downtown Dubai – 20 minutes"
+        }
+      }
+    },
+    "coveEdition3": {
+      "title": "Cove Edition 3",
+      "projectDetails": {
+        "label": "Project Details",
+        "detail1": {
+          "title": "Prices Starting from",
+          "desc": "AED 600,000"
+        },
+        "detail2": {
+          "title": "20%",
+          "desc": "down payment"
+        },
+        "detail3": {
+          "title": "Project Completion",
+          "desc": "Year Q1 2026"
+        },
+        "detail4": {
+          "title1": "20% down payment",
+          "title2": "50% during construction",
+          "title3": "30% On handover",
+          "title4": "70/30 Payment Plan"
+        }
+      },
+      "projectOverview": {
+        "label": "Project Overview",
+        "label2": "Visual Tour",
+        "title": "an OASIS IN THE SKY",
+        "para": "Presenting Cove Edition III by Imtiaz — an inspired vision set in vibrant Dubailand. Designed with a keen sense of style and purpose, each home captures the essence of effortless living, functionality, and sophistication. Cove Edition III reimagines urban living, setting a new benchmark for those who seek both tranquility and a connection to the pulse of the city."
+      },
+      "virtualTour": {
+        "label": "Visual Tour",
+        "title1": "Exploring the Perfect Blend of",
+        "title2": "Luxury and Innovation"
+      },
+      "amenities": {
+        "label": "WORLD-CLASS AMENITIES",
+        "title1": "EXPERIENCE LUXURY WITH A",
+        "title2": "VARIETY OF PREMIUM AMENITIES",
+
+        "amenity1": "BBQ Area",
+        "amenity2": "club room",
+        "amenity3": "Kids' Play Area",
+        "amenity4": "furnished",
+        "amenity5": "swimming pool",
+        "amenity6": "sauna & steam",
+        "amenity7": "covered parking",
+        "amenity8": "Gymnasium"
+      },
+      "location": {
+        "label": "PROJECT LOCATION",
+        "title": "WELL-CONNECTED TO BUSINESS, LEISURE, AND TRANSIT",
+        "distances": {
+          "one": "Academic City – 5 minutes",
+          "two": "Global Village – 10 minutes",
+          "three": "IMG World of Adventure - 10 minutes",
+          "four": "Dubai Silicon Oasis – 5 minutes",
+          "five": "Burj Khalifa - 20 minutes",
+          "six": "Dubai Marina - 45 minutes",
+          "seven": "Dubai Mall – 20 minutes",
+          "eight": "Dubai Creek – 20 minutes",
+          "nine": "Downtown Dubai – 20 minutes"
+        }
+      }
+    },
+    "beachWalkGrand": {
+      "title": "Beach Walk Grand",
+      "projectDetails": {
+        "label": "Project Details",
+        "detail1": {
+          "title": "Prices Starting from",
+          "desc": "AED 2.1 M"
+        },
+        "detail2": {
+          "title": "20%",
+          "desc": "down payment"
+        },
+        "detail3": {
+          "title": "Project Completion",
+          "desc": "Year Q1 2027"
+        },
+        "detail4": {
+          "title1": "20% down payment",
+          "title2": "40% during construction",
+          "title3": "40% On handover",
+          "title4": "60/40 Payment Plan"
+        }
+      },
+      "projectOverview": {
+        "label": "Project Overview",
+        "label2": "Visual Tour",
+        "title": "A Premier Coastal Address",
+        "para": "Discover a new standard of waterfront living with Beach Walk Grand, an exclusive beachfront community set against the stunning backdrop of Dubai Islands. Designed for those who seek a life of elegance and tranquility, this exceptional destination offers a seamless blend of luxury, comfort, and convenience. With the serene ocean just steps away, every day feels like a retreat, inviting you to embrace resort-style living at its finest. Welcome to Beach Walk Grand by Imtiaz Developments, where coastal sophistication meets effortless charm."
+      },
+      "virtualTour": {
+        "label": "Visual Tour",
+        "title1": "Exploring the Perfect Blend of",
+        "title2": "Luxury and Innovation"
+      },
+
+      "amenities": {
+        "label": "WORLD-CLASS AMENITIES",
+        "title1": "EXPERIENCE LUXURY WITH A",
+        "title2": "VARIETY OF PREMIUM amenities",
+        "amenity1": "zen garden",
+        "amenity2": "YOGA RETREAT",
+        "amenity3": "Kids' Play Area",
+        "amenity4": "furnished",
+        "amenity5": "swimming pool",
+        "amenity6": "BBQ Area",
+        "amenity7": "covered parking",
+        "amenity8": "rooftop garden"
+      },
+      "location": {
+        "label": "PROJECT LOCATION",
+        "title": "WELL-CONNECTED TO BUSINESS, LEISURE, AND TRANSIT",
+
+        "distances": {
+          "one": "Infinity Bridge – 5 minutes",
+          "two": "Waterfront Market – 5 minutes",
+          "three": "Nearest Metro Station - 8 minutes",
+          "four": "Al Mamzar Beach - 9 minutes",
+          "five": "Dubai International Airport – 12 minutes",
+          "six": "Cruise Terminal – 15 minutes",
+          "seven": "Dubai Frame – 20 minutes",
+          "eight": "Dubai Mall – 20 minutes",
+          "nine": "Downtown Dubai – 24 minutes"
+        }
+      }
+    },
+    "sunsetBay": {
+      "title": "Sunset Bay",
+
+      "projectDetails": {
+        "label": "Project Details",
+        "detail1": {
+          "title": "Prices Starting from",
+          "desc": "AED 1.69 M"
+        },
+        "detail2": {
+          "title": "20%",
+          "desc": "down payment"
+        },
+        "detail3": {
+          "title": "Project Completion",
+          "desc": "Year Q1 2026"
+        },
+        "detail4": {
+          "title1": "  20% down payment",
+          "title2": "40% during construction",
+          "title3": "40% On handover",
+          "title4": "60/40 Payment Plan"
+        }
+      },
+      "projectOverview": {
+        "label": "Project Overview",
+        "label2": "Visual Tour",
+        "title": "Elegance Meets Urban Harmony",
+        "para": "Sunset Bay, a residence that captures the essence of serene waterfront living. Here, life moves in harmony with nature, from the golden glow of dawn to the tranquil beauty of dusk. Start your mornings by the water, embrace a relaxed and effortless lifestyle in a home designed for your comfort, and enjoy world-class amenities at your doorstep. As the sun sets, let the breathtaking hues of the horizon welcome you home to Sunset Bay—where elegance meets tranquility."
+      },
+      "virtualTour": {
+        "label": "Visual Tour",
+        "title1": "Exploring the Perfect Blend of",
+        "title2": "Luxury and Innovation"
+      },
+
+      "amenities": {
+        "label": "WORLD-CLASS AMENITIES",
+        "title1": "EXPERIENCE LUXURY WITH A",
+        "title2": "VARIETY OF PREMIUM amenities",
+        "amenity1": "outdoor dining/BBQ Area",
+        "amenity2": "Gymnasium",
+        "amenity3": "Kids' Play Area",
+        "amenity4": "kids pool",
+        "amenity5": "swimming pool",
+        "amenity6": "sauna & steam",
+        "amenity7": "covered parking",
+        "amenity8": "rooftop garden"
+      },
+      "location": {
+        "label": "PROJECT LOCATION",
+        "title": "WELL-CONNECTED TO BUSINESS, LEISURE, AND TRANSIT",
+
+        "distances": {
+          "one": "Infinity Bridge – 5 minutes",
+          "two": "Waterfront Market – 5 minutes",
+          "three": "Al Mamzar Beach – 8 minutes",
+          "four": "Nearest Metro Station – 12 minutes",
+          "five": "Dubai International Airport – 12 minutes",
+          "six": "Cruise Terminal – 15 minutes",
+          "seven": "Dubai Frame – 20 minutes",
+          "eight": "Downtown Dubai – 24 minutes",
+          "nine": "Dubai Mall – 24 minutes"
+        }
+      }
+    }
+  },
+  "ComingSoon": {
+    "comingSoon": "Coming Soon...",
+    "btn": "Go to homepage"
+  },
+  "Career": {
+    "title": "Career",
+    "Luxury": {
+      "label": "work together",
+      "title": "Life at Green Horizon",
+      "para1": "At Green Horizon, we don’t just construct buildings—we create timeless masterpieces that redefine luxury living. Every project we develop is a statement of prestige, innovation, and enduring value. Our team is driven by a shared vision: to craft extraordinary spaces that inspire, appreciate in worth, and leave a lasting legacy. If you are passionate about excellence, elegance, and making an impact, Green Horizon is the place where your career meets prestige and purpose."
+    },
+    "Advantages": {
+      "label": "Advantages",
+      "title1": "Benefits of working at",
+      "title2": "green horizon",
+      "advantage1": "Well-defined career path",
+      "advantage2": "Unparalleled Career Growth",
+      "advantage3": "Innovation-Driven Culture ",
+      "advantage4": "Prestige & Growth ",
+      "advantage5": "Rewarding excellence"
+    }
+  },
+
+  "CookiePolicy": {
+    "title": "Cookie Policy",
+    "section1": {
+      "title": "1. Introduction",
+      "description": "Welcome to Green Horizon Real Estate Development LLC (\"we,\" \"our,\" \"us\"). We are committed to safeguarding your privacy and ensuring that your personal data is protected. This Cookie Policy explains how we use cookies and similar technologies on our website",
+      "description2": "(\"Website\"). By accessing or using our Website, you consent to the use of cookies as described in this policy."
+    },
+    "section2": {
+      "title": "2. What Are Cookies?",
+      "description": "Cookies are small text files that are placed on your device (computer, smartphone, tablet) when you visit a website. They are widely used to make websites work efficiently, as well as to provide information to the site owners."
+    },
+    "section3": {
+      "title": "3. Types of Cookies We Use",
+      "strictlyNecessary": "Strictly Necessary Cookies",
+      "strictlyNecessaryDesc": "Essential for the operation of our Website.",
+      "performance": "Performance Cookies",
+      "performanceDesc": "Collect information about how visitors use our Website.",
+      "functionality": "Functionality Cookies",
+      "functionalityDesc": "Allow our Website to remember choices you make.",
+      "advertising": "Advertising Cookies",
+      "advertisingDesc": "Deliver advertisements that are more relevant to you."
+    },
+    "section4": {
+      "title": "4. Third-Party Cookies",
+      "description": "We may allow third-party service providers to place cookies on your device for analytics and advertising purposes. We do not control these third-party cookies."
+    },
+    "section5": {
+      "title": "5. How to Manage Cookies",
+      "description": "You have the right to accept or reject cookies. Most web browsers automatically accept cookies, but you can modify your browser settings to decline them.",
+      "browsers": {
+        "chrome": "Google Chrome",
+        "firefox": "Mozilla Firefox",
+        "safari": "Safari",
+        "edge": "Microsoft Edge"
+      }
+    },
+    "section6": {
+      "title": "6. Changes to This Cookie Policy",
+      "description": "We may update this Cookie Policy from time to time. We encourage you to review this policy periodically."
+    },
+    "section7": {
+      "title": "7. Contact Us",
+      "description": "If you have any questions, please contact us at:"
+    },
+    "contact": {
+      "name": "Green Horizon Real Estate Development LLC",
+      "address": "Floor 5, Office 501, Millennium Executive Tower",
+      "city": "Sheikh Zayed Road, Dubai, UAE",
+      "phone": "Phone:",
+      "email": "Email:"
+    }
+  },
+
+  "PrivacyPolicy": {
+    "title": "Privacy Policy",
+    "introduction": {
+      "title": "1. Introduction",
+      "text1": "Welcome to Green Horizon Real Estate Development LLC (\"we,\" \"our,\" or \"us\"). Your privacy is important to us, and we are committed to protecting your personal data.",
+      "text2": "By accessing or using our Website, you agree to the terms outlined in this Privacy Policy."
+    },
+    "informationWeCollect": {
+      "title": "2. Information We Collect",
+      "personal": {
+        "title": "a. Personal Information",
+        "text": "When you contact us or request services, we may collect:",
+        "items": {
+          "name": "Name",
+          "email": "Email address",
+          "phone": "Phone number",
+          "address": "Address",
+          "company": "Company details (if applicable)"
+        }
+      },
+      "nonPersonal": {
+        "title": "b. Non-Personal Information",
+        "text": "When you visit our Website, we may automatically collect:",
+        "items": {
+          "ip": "IP address",
+          "browser": "Browser type and version",
+          "pagesVisited": "Pages visited on our Website",
+          "time": "Time and date of visit",
+          "referrer": "Referring website (if applicable)"
+        }
+      },
+      "cookies": {
+        "title": "c. Cookies and Tracking Technologies",
+        "text": "We use cookies to enhance your experience. Please refer to our",
+        "cookiePolicy": "Cookie Policy",
+        "text2": "for more details on how we use cookies."
+      }
+    },
+    "section3": {
+      "title": "3.How We Use Your Information",
+      "text": "We may use the information collected for the following purposes:",
+      "items": {
+        "1": "To respond to inquiries and provide customer support",
+        "2": "To personalize your experience on our Website",
+        "3": "To send updates about our services, promotions, or newsletters (if opted-in)",
+        "4": "To analyze Website traffic and improve our services",
+        "5": "To comply with legal obligations"
+      }
+    },
+    "section4": {
+      "title": "4. How We Share Your Information",
+      "text": "We do not sell or trade your personal information. However, we may share your data in the following circumstances:",
+      "items": {
+        "1": {
+          "text": "Service Providers:",
+          "data": " Third-party partners who assist with website hosting, analytics, or marketing."
+        },
+        "2": {
+          "text": "Legal Compliance:",
+          "data": "If required by law or to protect our rights and safety."
+        },
+        "3": {
+          "text": "Business Transfers:",
+          "data": "If our business undergoes a merger, acquisition, or asset sale, your data may be transferred."
+        }
+      }
+    },
+    "section5": {
+      "title": "5. Data Security",
+      "text": "We implement security measures to protect your personal data from unauthorized access, alteration, or disclosure. However, no online platform is 100% secure, and we cannot guarantee absolute security."
+    },
+
+    "section6": {
+      "title": "6. Your Rights and Choices",
+      "text": "You have the right to:",
+      "items": {
+        "1": "Access, correct, or delete your personal data",
+        "2": "Withdraw consent for marketing communications",
+        "3": "Disable cookies via browser settings"
+      },
+      "text2": "To exercise your rights, contact us at"
+    },
+    "section7": {
+      "title": "7. Third-Party Links",
+      "text": "Our Website may contain links to external websites. We are not responsible for the privacy practices of third-party sites and encourage you to review their policies."
+    },
+    "section8": {
+      "title": "8. Changes to This Privacy Policy",
+      "text": "We may update this Privacy Policy periodically. The latest version will always be available on our Website."
+    },
+    "contact": {
+      "title": "9. Contact Us",
+      "description": "For any privacy-related inquiries, please contact:"
+    }
+  },
+
+  "TermsAndConditions": {
+    "title": "Terms & Conditions",
+    "section1": {
+      "title": "1. Introduction",
+      "description": "Welcome to Green Horizon Real Estate Development LLC (\"we,\" \"our,\" \"us\"). These Terms & Conditions (\"Terms\") govern your access and use of our website",
+      "description2": "(\"Website\"). By using our Website, you agree to be bound by these Terms. If you do not agree, please refrain from using our Website."
+    },
+    "section2": {
+      "title": "2. Use of the Website",
+      "description": "By accessing our Website, you agree to:",
+      "point1": "Use it only for lawful purposes.",
+      "point2": "Not engage in any activity that may disrupt or harm the Website.",
+      "point3": "Not attempt to gain unauthorized access to our systems.",
+      "text": "We reserve the right to terminate access to any user violating these Terms."
+    },
+    "section3": {
+      "title": "3. Intellectual Property Rights",
+      "description": "All content on our Website, including text, images, logos, and graphics, is the property of Green Horizon Real Estate Development LLC or its licensors. You may not reproduce, distribute, or modify any content without prior written consent."
+    },
+    "section4": {
+      "title": "4. Information Disclaimer",
+      "description": "The content on our Website is for informational purposes only and should not be considered financial, legal, or real estate advice. While we strive for accuracy, we do not guarantee the completeness or reliability of the information provided."
+    },
+    "section5": {
+      "title": "5. Third-Party Links",
+      "description": "Our Website may contain links to third-party websites. We do not control or endorse their content, and we are not responsible for their privacy policies or practices."
+    },
+    "section6": {
+      "title": "6. Limitation of Liability",
+      "description": "To the fullest extent permitted by law, Green Horizon Real Estate Development LLC is not liable for any:",
+      "point1": "Direct, indirect, or incidental damages resulting from your use of our Website.",
+      "point2": "Loss of data or business interruption due to Website errors or technical issues."
+    },
+    "section7": {
+      "title": "7. Indemnification",
+      "description": "You agree to indemnify and hold harmless Green Horizon Real Estate Development LLC from any claims, damages, or liabilities arising from your use of our Website."
+    },
+    "section8": {
+      "title": "8. Changes to These Terms",
+      "description": "We may update these Terms periodically. The latest version will always be available on our Website."
+    },
+    "contact": {
+      "title": "9. Contact Us",
+      "description": "For any inquiries regarding these Terms, please contact us at:"
+    }
+  },
+  "cookieConsent": {
+    "title": "We value your privacy",
+    "text": "This website uses cookies to improve user experience. By using our website you consent to all cookies in accordance with our",
+    "cookiePolicy": "Cookie Policy",
+    "accept": "Accept",
+    "rejectAll": " Reject All"
+  }
+}
